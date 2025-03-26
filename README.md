@@ -3,3 +3,4 @@
 3. EminentDomainDatabase.xlsx (Flood buyout data)
 4. FloodplainPropertyDatabase.xlsx (Flood buyout data)
 5. 2022 Harris County Buyouts Data.pdf (Thesis about the database)
+6. BakkensenAndMa.pdf (Sorting model paper)
