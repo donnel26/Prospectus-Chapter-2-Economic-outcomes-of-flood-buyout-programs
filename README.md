@@ -2,4 +2,4 @@
 2. Prospectus Chapter 2 (Word document version of prospectus chapter)
 3. EminentDomainDatabase.xlsx (Flood buyout data)
 4. FloodplainPropertyDatabase.xlsx (Flood buyout data)
-5. (Thesis about the database)
+5. 2022 Harris County Buyouts Data.pdf (Thesis about the database)
